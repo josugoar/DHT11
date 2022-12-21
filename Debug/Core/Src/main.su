@@ -1,0 +1,8 @@
+../Core/Inc/rgb_lcd.h:108:13:rgb_lcd_setColorAll	16	static
+../Core/Inc/rgb_lcd.h:111:13:rgb_lcd_setColorWhite	16	static
+../Core/Src/main.c:82:5:main	88	static
+../Core/Src/main.c:173:6:SystemClock_Config	128	static
+../Core/Src/main.c:218:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:225:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:238:7:map	32	static
+../Core/Src/main.c:248:6:Error_Handler	8	static,ignoring_inline_asm
